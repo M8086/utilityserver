@@ -21,7 +21,7 @@ Python3 utility_client.py 10.0.0.1 5000
 ```
 The server offers some basic logging that will be stored to the log folder.
 
-Make sure to run the init_db.py script to get the sqlite db setup for using the guestbook.
+Make sure to run the init_db.py script in the server/db folder to get the sqlite db setup for using the guestbook.
 
 Be sure to install the zmq library
 ```Python
