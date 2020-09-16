@@ -18,3 +18,8 @@ Run the client by specifying the server IP and port to connect to
 ```Python
 Python3 utility_client.py 10.0.0.1 5000
 ```
+
+Be sure to install the zmq library
+```Python
+pip install pyzmq
+```
