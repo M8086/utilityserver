@@ -1,5 +1,5 @@
 # utilityserver
-A TCP client/server writting in Python 3 using zmq sockets
+A TCP client/server written in Python 3 using zmq sockets
 
 A client connecting to the server can do the following things:
 * Get their time and timezone based on their public IPv4 address
