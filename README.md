@@ -5,7 +5,7 @@ A client connecting to the server can do the following things:
 * Get their time and timezone based on their public IPv4 address
 * Get their public IPv4 address
 * Ask a magic 8 ball a question
-* Sign a guestbook that has the entries stored in an squlite db
+* Sign a guestbook that has the entries stored in an sqlite db
 
 Run the server by providing the local IP and port to bind to.
 
