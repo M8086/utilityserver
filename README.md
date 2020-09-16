@@ -3,7 +3,7 @@ A TCP client/server writting in Python 3 using zmq sockets
 
 A client connecting to the server can do the following things:
 * Get their time based on their public IPv4 address
-^ Get their public IPv4 address
+* Get their public IPv4 address
 * Ask a magic 8 ball a question
 * sign a guestbook that has the entries stored in an squlite db
 
